@@ -1,2 +1,3 @@
 # demo
-This is my first repository.
+This is my first Github Repository.
+Author- Priti Parmar.
